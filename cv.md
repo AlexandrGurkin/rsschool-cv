@@ -36,7 +36,7 @@ ___
 
 ##### Projects
 
-######Live video streaming
+###### Live video streaming
 
 **Position:** developer <br>
 **Environment:** Golang, Go micro<br>
@@ -53,20 +53,20 @@ ___
 * refactorings
 * experiments with Docker, CI/CD 
 
-#####Projects
+##### Projects
 
-######CAS Cronus
+###### CAS Cronus
 
 **Position:** developer <br>
 **Environment:** C++, Boost
 
-######Hermes Notification system (2018)
+###### Hermes Notification system (2018)
 
 **Position:** developer <br>
 **Environment:** C++/Golang<br>
 
 ___
-###Education
+### Education
 
-_Saint Petersburg National Research University of Information Technologies, Mechanics and Optics, Saint Petersburg, Russia <br>                                                                   
-Specialist (Master Degree) – Software Engineering_
+_Saint Petersburg National Research University of Information Technologies, Mechanics and Optics, Saint Petersburg, Russia                                                                   
+Specialist (Master Degree) – Software Engineering_ <br>
