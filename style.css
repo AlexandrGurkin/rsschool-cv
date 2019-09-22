@@ -1,0 +1,37 @@
+.avatar {
+    float: left;
+    border-radius: 50%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.name {
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4, h5 {
+    font-size: 16px;
+}
+
+h5, h6 {
+    color: gray;
+    margin: 10px 10px 10px 0;
+}
+
+h6 {
+    font-size: 14px;
+}
+
+.ctr {
+    max-width: 1024px;
+    margin: auto;
+}
